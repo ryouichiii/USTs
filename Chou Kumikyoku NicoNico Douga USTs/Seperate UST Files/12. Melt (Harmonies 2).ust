@@ -1,0 +1,41 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=175.00
+Tracks=1
+ProjectName=12. Melt (Harmonies 2)
+VoiceDir=voice\uta
+OutFile=
+CacheDir=12. Melt (Harmonies 2).cache
+Tool1=wavtool4vcv.exe
+Tool2=TIPS.exe
+Mode2=True
+[#0000]
+Length=480
+Lyric=R
+NoteNum=60
+[#0001]
+Length=720
+Lyric=‚ß
+NoteNum=71
+PreUtterance=
+Modulation=0
+PBW=50
+PBS=-25
+[#0002]
+Length=240
+Lyric=‚é
+NoteNum=68
+PreUtterance=
+Modulation=0
+PBW=59
+PBS=-30
+[#0003]
+Length=480
+Lyric=‚Æ
+NoteNum=68
+PreUtterance=
+Modulation=0
+PBW=50
+PBS=-25
+[#TRACKEND]

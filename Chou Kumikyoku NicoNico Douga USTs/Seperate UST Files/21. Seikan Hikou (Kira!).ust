@@ -1,0 +1,33 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=175.00
+Tracks=1
+ProjectName=21. Seikan Hikou (Kira!)
+VoiceDir=voice\uta
+OutFile=
+CacheDir=21. Seikan Hikou (Kira!).cache
+Tool1=wavtool4vcv.exe
+Tool2=TIPS.exe
+Mode2=True
+[#0000]
+Length=32040
+Lyric=R
+NoteNum=60
+[#0001]
+Length=120
+Lyric=‚«
+NoteNum=69
+PreUtterance=
+Modulation=0
+PBW=50
+PBS=-25
+[#0002]
+Length=120
+Lyric=‚ç
+NoteNum=76
+PreUtterance=
+Modulation=0
+PBW=74
+PBS=-38
+[#TRACKEND]

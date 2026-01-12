@@ -1,0 +1,41 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=124.00
+Tracks=1
+ProjectName=Chorus Ad-lib
+VoiceDir=voice\uta
+OutFile=
+CacheDir=Chorus Ad-lib.cache
+Tool1=wavtool4vcv.exe
+Tool2=TIPS.exe
+Mode2=True
+[#0000]
+Length=78000
+Lyric=R
+NoteNum=60
+[#0001]
+Length=480
+Lyric=one
+NoteNum=67
+PreUtterance=
+Modulation=0
+PBW=50
+PBS=-25
+[#0002]
+Length=480
+Lyric=comes
+NoteNum=65
+PreUtterance=
+Modulation=0
+PBW=56
+PBS=-29
+[#0003]
+Length=1680
+Lyric=in
+NoteNum=63
+PreUtterance=
+Modulation=0
+PBW=56
+PBS=-29
+[#TRACKEND]
