@@ -256,7 +256,6 @@ tracks:
 - phonemizer: OpenUtau.Core.DefaultPhonemizer
   renderer_settings: {}
   track_name: Main
-  track_color: {}
   mute: false
   solo: false
   volume: 0
@@ -267,7 +266,6 @@ tracks:
 - phonemizer: OpenUtau.Core.DefaultPhonemizer
   renderer_settings: {}
   track_name: Ad-lib
-  track_color: {}
   mute: false
   solo: false
   volume: 0
@@ -278,7 +276,6 @@ tracks:
 - phonemizer: OpenUtau.Core.DefaultPhonemizer
   renderer_settings: {}
   track_name: Harmonies 1
-  track_color: {}
   mute: false
   solo: false
   volume: -15
@@ -289,7 +286,6 @@ tracks:
 - phonemizer: OpenUtau.Core.DefaultPhonemizer
   renderer_settings: {}
   track_name: Harmonies 2
-  track_color: Blue
   mute: false
   solo: false
   volume: -15
@@ -300,7 +296,6 @@ tracks:
 - phonemizer: OpenUtau.Core.DefaultPhonemizer
   renderer_settings: {}
   track_name: Harmonies 3
-  track_color: {}
   mute: false
   solo: false
   volume: -15
@@ -311,7 +306,6 @@ tracks:
 - phonemizer: OpenUtau.Core.DefaultPhonemizer
   renderer_settings: {}
   track_name: Harmonies 4
-  track_color: {}
   mute: false
   solo: false
   volume: -15
